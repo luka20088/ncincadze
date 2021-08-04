@@ -1,0 +1,502 @@
+
+}
+.content1{
+	margin-left: 40px;
+	color: #CC9B55;
+	font-size: 16px;
+}
+.content1 h1 {
+	color: black;
+}
+.post{
+	margin-left: 40px;
+	font-size: 17;
+}
+
+.div1{
+	background-color: white;
+	width: 570px;
+	display: inline-block;
+	padding: 0 20px 20px 20px;
+}
+
+.content2 {
+	margin-left: 75%;
+	color: #CC9B55;
+	font-size: 16px;
+	margin-bottom: 40px;
+}
+
+.content2 h2{
+	color: black;
+}
+
+.mine-article1{
+	background-color: white;
+	width: 810px;
+	padding: 15px;
+	margin: 40px;
+
+}
+.mine-article {
+	background-color: white;
+	width: 810px;
+	padding: 15px;
+	margin: 40px;
+}
+.mine-section {
+	float: left;
+}
+.img{
+	margin-left: 103px;
+}
+.panzer h5 {
+	color: #dc9a20;
+}
+
+
+
+.left-div p {
+	padding:  0 0 10px 0;
+}
+.left-div h4{
+	padding: 10px;
+}
+
+.left-div img{
+	float: left;
+	margin-right: 5%;
+	
+}
+.logo {
+	padding: 50px;
+}
+.logo1 img{
+	float: right;
+	margin-top: -83px;
+}
+
+.read-more {
+	margin-bottom: 211px;
+	margin-top: 75px;
+}
+
+
+.posts{
+	color: #CC9B55;
+}
+.menubar {
+	
+	height: 50px;
+}
+ul.menu {
+	margin-left: 1%;
+	margin-bottom: 30px;
+	
+
+}
+ul.menu li {
+	float: left;
+	padding: 0 0 0 9px;
+	list-style: none;
+	margin: 1px 2px 0 0;
+	margin-left: 100px;
+	
+}
+
+ul.menu li a{
+	color: #CC9B55;
+
+}
+
+
+
+.baner-section {
+	position: relative;
+	width: 892px;
+
+
+}
+
+.pen {
+	margin-left: 100px;
+	margin-top: 33px;
+}
+
+.banner-pic img{
+	position: absolute;
+	top: 0;
+	right: 0px;
+}
+.baner-section img {
+	margin-left: 100px;
+
+}
+
+.right-banner {
+	position: relative;
+	margin-left: 54%;
+	width: 792px;
+	margin-top: -15%;
+
+}
+.banner-pic1 img {
+	position: absolute;
+	top: 0;
+	right: 0px;
+}
+.banner-pic2 img{
+	position: absolute;
+	top: 194px;
+	right: 442px;
+
+
+}
+
+.logo3 p{
+	width: 772px;
+}
+.logo3 h1{
+	margin:-16px;
+	margin-left: 79px;
+	margin-top: -40px;
+	width: 120px;
+	position: relative;
+}
+.logo4 img{
+	margin-left: 33%;
+}
+
+.pen1{
+	margin-left: 54%;
+	margin-top: -103px;
+}
+.logo5 img{
+	margin-left: 615px;
+}
+
+
+.right-section1 .mit{
+	margin-left: 103px;
+}
+.right-section1 .asd{
+	margin-left: 32px;
+}
+.right-section2 .mt{
+	margin-left: 32px;
+}
+.right-section2 .as{
+	margin-left: 103px;
+}
+.right-section2{
+	margin-top: 32px;
+}
+.top{
+	margin-top: 120px;
+	margin-bottom: 455px;
+}
+.top div .kak{
+	margin-left: 73%;
+	margin-top: -53px;
+}
+.skami h5{
+	margin-bottom: 26px;
+	    margin-left: 1368px;
+	    color: #CC9B55;
+}
+.skami div p{
+	margin-bottom: 219px;
+	    margin-left: 1096px;
+	    font-size: 52px;
+	    width: 790px;
+	    height: 142px;
+}
+.skami{
+	margin-top: -235px;
+}
+.banner-text{
+	position: absolute;
+	width: 922px;
+	top: 10%;
+	margin-left: 115px;
+	color: white;
+	}
+	.right-section1 {
+		position: relative;
+	}
+	.right-section1 article img{
+		margin-left: 45px;
+		margin-top: 174px;
+		width: 125px;
+		height: 25px;
+
+	}
+	.ikonki {
+		position: absolute;
+		top: 306px;
+        margin-left: 37px;
+	}
+	
+
+
+	.right-section1 .banner-text1 .article8 img{
+		margin-left: 0px;
+		margin-top: 57px;
+	}
+
+	.banner-text1 {
+	position: absolute;
+	color: white;
+	width: 540px;
+	margin-left: 65%;
+	top: 12%;
+
+
+	}
+.right-section2{
+	position: relative;
+}
+
+
+.right-section2 .banner-text3{
+	position: absolute;
+	color: white;
+	width: 540px;
+	margin-left: 8%;
+	top: 15%;
+
+}
+.right-section2{
+	position: absolute;
+}
+
+.right-section2 .banner-text4{
+	position: absolute;
+	color: white;
+	width: 540px;
+	margin-left: 48%;
+	top: 5%;
+
+}
+.right-section2 article img{
+		margin-left: 0px;
+		margin-top: -4px;
+	}
+	.right-section2 .article88 img{
+		margin-left:-23px;
+		margin-top: 13px;
+	}
+	.rmore {
+		
+		position: relative;
+	}
+	.rmore img {
+	    margin-left: 688px;
+        margin-top:  113px;
+        width: 332px;
+        height: 82px;
+        position: relative;
+
+	}
+	.rmore{
+		position: relative;
+	}
+	.rmore p{
+		position: absolute;
+		top: 0;
+		margin-left: 86%;
+    margin-top: 16%;
+    font-size: 16px;
+    color: white;
+	}	
+	.png img{
+		position: relative;
+		margin-left: 241px;
+    margin-top: 104px;
+		width: 331px;
+		height: 82px;
+	}
+	.png p{
+		position: absolute;
+		top: 0;
+		margin-left: 66%;
+    margin-top: 56%;
+    font-size: 16px;
+    color: white;
+	}
+	.maintance{
+		width: 115px;
+		height: 30px;
+	}
+
+.op{
+	width: 331px;
+	height: 82px;
+}
+.op img{
+	margin-left: 255px;
+	margin-top: 41px;
+	position: relative;
+}
+.op  p{
+	position: absolute;
+		top: 0;
+		margin-left: 66%;
+    margin-top: 45%;
+    font-size: 16px;
+    color: white;
+}
+.hp{
+	width: 331px;
+	height: 82px;
+}
+.hp img{
+	margin-left: 603px;
+	margin-top: 66px;
+	position: relative;
+
+}
+.hp p{
+	position: absolute;
+		top: 0;
+		margin-left: 131%;
+    margin-top:58%;
+    font-size: 16px;
+    width: 115px;
+    height: 30px;
+    color: white;
+
+}
+.png {
+	width: 331px;
+	height: 82px;
+}
+.WERE{
+	margin-top: 212px;
+	margin-left: 103px;
+}
+.WERE h5{ 
+
+	color: #CC9B55;
+
+}
+.ti img{
+	margin-top: 50%;
+	margin-left: 103px;
+	position: relative;
+
+}
+.thor img{
+	position: absolute;
+	margin-top: -262px;
+	margin-left: 35%;
+}
+.thor h2{
+	position: absolute;
+	margin-left: 274px;
+	margin-top: -14%;
+}
+.thor h3{
+	position: absolute;
+	margin-left: 274px;
+	margin-top: -12%;
+}
+.thor p{
+	position: absolute;
+	margin-left: 274px;
+	margin-top: -10%;
+}
+.thor .photo{
+	position: absolute;
+	margin-left: 7%;
+}
+.third {
+	margin-left: 52%;
+    margin-top: -42%;
+}
+.end img{
+	position: relative;
+}
+.end h2{
+	    position: absolute;
+    margin-top: -18px;
+    margin-left: 1247px;
+    color: white;
+}
+.end{
+	margin-left: 80%;
+	margin-top: 300px;
+}
+.the-end {
+	width: 360px;
+	height: 80px;
+
+}
+.end img{
+	margin-left: 1600%;
+	margin-bottom: -60%;
+}
+.spawn {
+	margin-left: 103px;
+}
+.content1 {
+	font-family: 'Poppins';
+}
+.post{
+	font-family: 'Poppins';
+}
+.content2{
+	font-family: 'Poppins';
+}
+.content1 h5{
+	color: #CC9B55;
+}
+body{
+	font-family: 'Poppins';
+	width: 97%;
+}
+.left1{
+	width: 555px;
+	height: 37px;
+	font-size: 13px;
+}
+.finish h3{
+	margin-left: 45%;
+	font-size: 16px;
+}
+.finish li{
+	margin-left: 45%;
+	
+	margin-top: 50px;
+}
+.input {
+	float: right;
+	margin-top: -25%;
+}
+
+input[type="text"] {
+	color: #888785;
+	width: 43%;
+    padding: 18px;
+
+}
+
+input[type="email"] {
+	width: 92%;
+	padding: 18px;
+}
+input[type="submit"] {
+	width: 97%;
+	padding: 18px;
+}
+.khalid{
+	    margin-left: -17px;
+}
+.afex{
+	margin-left: 53%;
+    margin-top: -5%;
+}
+.by{
+	margin-top: -6%;
+    margin-left: 71%;
+}
